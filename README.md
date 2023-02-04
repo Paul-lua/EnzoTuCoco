@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EnzoTuCoco
 - 👀 I’m interested in GLua
-- 📫 My discord is 𝙀𝙣𝙯𝙤𝙏𝙪𝘾𝙤𝙘𝙤🙊#7623
+- 📫 My discord is 𝗘𝗻𝘇𝗼 🦦#7445
+
 - 🧒 I am a beginner in GLua and HTML I am not a pro
 
 
